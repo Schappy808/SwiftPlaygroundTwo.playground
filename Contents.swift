@@ -24,3 +24,30 @@ if gradeA
 else
 
 { print("I'm not so sure about coding")}
+
+var one = 1
+
+var two = 2
+
+//conditional statement
+//set up if/else block
+
+one == 1
+two != 1
+two<one
+
+if two<one
+{
+    print(false)
+}
+
+var three = "3"
+
+var four = "4"
+
+three < four
+
+if three < four
+{
+    print(true)
+}
