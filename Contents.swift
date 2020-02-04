@@ -45,9 +45,15 @@ var three = "3"
 
 var four = "4"
 
-three < four
+var five = "3 + 4"
 
 if three < four
 {
     print(true)
+}
+
+else
+
+{
+    print(five)
 }
